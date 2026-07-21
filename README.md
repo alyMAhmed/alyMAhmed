@@ -7,11 +7,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Aly+Ahmed;Computer+Science+%40+Virginia+Tech+'26;I+build+AI%2FML+tools+that+reach+production" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Aly+Ahmed;Computer+Science+%40+Virginia+Tech+'26;I+build+AI%2FML+tools" alt="typing header" />
 
 <p>
   <a href="https://github.com/alyMAhmed"><img src="https://img.shields.io/badge/Focus-AI%2FML%20%2B%20Cloud-6EA8FE?style=flat-square" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alyfahmed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=alyMAhmed&style=flat-square&color=6EA8FE" alt="profile views" />
 </p>
 
@@ -74,6 +74,9 @@ I'm a Computer Science graduate from **Virginia Tech**, and what I care about mo
 
 #### 🔒 Lockdown IDE · [`lockdown_IDE`](https://github.com/alyMAhmed/lockdown_IDE)
 A **TypeScript fork of `microsoft/vscode`** reworked into a secure exam environment that stops AI-assisted cheating. It refuses to launch while flagged software (like AI assistants) is running, strips out editor functionality to limit what students can do, and adds a login UI with **Canvas integration** that pulls GitHub repos from specially configured assignments and auto-submits the student's solutions on exit. A built-in analytics layer logs typing behavior, tracking characters added or removed, in which file, and when, to surface signals of cheating.
+
+#### 🔍 Semantic Search System · *AI Future Minds*
+Full-stack semantic search with questionnaire-based recommendations, pre-login caching, and **Azure Cosmos DB**, built with Python, C# .NET, and TypeScript on **Azure CI/CD**. Refactored the recommendation service into a **Flask microservice** to hold a persistent warm state, cutting response times from tens of seconds to a few.
 
 #### 👁️ ByteBite Ad System · [`ByteBite_AdSystem`](https://github.com/alyMAhmed/ByteBite_AdSystem)
 Real-time facial-recognition ad platform using **Python, OpenCV, and DeepFace** for demographic analysis and automated AI reporting, with SQLite-to-MySQL sync on **AWS EC2**. Optimized for **Raspberry Pi 5** via multi-threading, frame skipping, downscaling, and caching to keep a constant analysis stream under tight compute limits.
