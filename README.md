@@ -89,29 +89,6 @@ A **Chrome extension** that summarizes any webpage and lets users take notes, pu
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alyMAhmed&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyMAhmed&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=alyMAhmed&hide_border=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alyMAhmed&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alyMAhmed&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 ### 🧠 What I'm Into
 
 Right now I'm most into **agentic systems** and **AI memory systems**, models that don't just answer but plan, use tools, and check their own work. I'm especially drawn to memory, the way it lets a model constantly improve its efficiency and the quality of its answers by carrying context forward instead of starting cold every time. These days I care as much about *why* a model gives an answer as whether it's right. I like teams where a good idea turns into a shipped feature fast.
