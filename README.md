@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Aly+Ahmed;Computer+Science+%40+Virginia+Tech+'26;I+build+AI%2FML+tools" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6EA8FE&center=true&vCenter=true&width=700&lines=Hi+I'm+Aly+Ahmed!;Computer+Science+%40+Virginia+Tech+'26;I+build+AI%2FML+tools" alt="typing header" />
 
 <p>
   <a href="https://github.com/alyMAhmed"><img src="https://img.shields.io/badge/Focus-AI%2FML%20%2B%20Cloud-6EA8FE?style=flat-square" /></a>
